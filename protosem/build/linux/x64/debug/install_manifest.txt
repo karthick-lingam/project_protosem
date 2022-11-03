@@ -1,0 +1,11 @@
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/protosem
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/karthick/project-icog/protosem/build/linux/x64/debug/bundle/data/flutter_assets/version.json

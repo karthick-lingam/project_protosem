@@ -1,0 +1,14 @@
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/install.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/CMakeFiles/protosem.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/karthick/project-icog/protosem/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir

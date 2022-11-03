@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574614288610",
+    "project_id": "protosem-forge",
+    "storage_bucket": "protosem-forge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574614288610:android:be007d7ff901491ed6c6bb",
+        "android_client_info": {
+          "package_name": "com.example.protosem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574614288610-m06ijcp8mrn7tlokiruhlandtdr43l90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyqj5flocVg6Oa2c9aPU4iNio5gQcElkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574614288610-m06ijcp8mrn7tlokiruhlandtdr43l90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
